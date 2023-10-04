@@ -4,11 +4,11 @@
 <h3 align="center">Um apaixonado desenvolvedor de softwares</h3>
 
 - 🔭 Atualmente estou trabalhando na  <a href="https://www.zaal.com.br/" target="blank">Zaal Tecnologia da Informação</a>
-
 - 🌱 Atualmente estou trabalhando com Delphi e React-Native
-
 - 🌱 Atualmente estou aprendendo desenvolvimento nativo <a href="https://www.android.com/intl/pt-BR_br/" target="blank">Android</a> com Kotlin e <a href="https://developer.android.com/jetpack/compose?hl=pt-br" target="blank">Jetpack Compose</a>
-
+- 🤔 Estou trabalhando nas horas vagas em um projeto pessoal <a href="https://github.com/WanderleiSantos/MyTraining" target="blank">(My Training)</a> em C# e Kotlin.
+- ❤️ Minha linguagem favorita: C#
+- 💬 Pergunte-me sobre: qualquer coisa, estarei feliz em ajudar
 
 <center>
   <a href="https://github.com/WanderleiSantos/">
