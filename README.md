@@ -1,7 +1,17 @@
 <h1 align="center">
   Olá 👋, Eu sou <a href="https://github.com/WanderleiSantos/" target="blank">Wanderlei</a>
 </h1>
+
 <h3 align="center">Um apaixonado desenvolvedor de softwares</h3>
+
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+  <div align="center">
+    <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=react&logoColor=white" />
+  </div>
+ <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 - 🔭 Atualmente estou trabalhando na  <a href="https://www.zaal.com.br/" target="blank">Zaal Tecnologia da Informação</a>
 - 🌱 Atualmente estou trabalhando com Delphi e React-Native
