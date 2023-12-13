@@ -7,8 +7,9 @@
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
   <div align="center">
     <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/java-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />    
     <img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=react&logoColor=white" />
   </div>
  <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
@@ -17,7 +18,7 @@
 - 🌱 Atualmente estou trabalhando com Delphi e React-Native
 - 🌱 Atualmente estou aprendendo desenvolvimento nativo <a href="https://www.android.com/intl/pt-BR_br/" target="blank">Android</a> com Kotlin e <a href="https://developer.android.com/jetpack/compose?hl=pt-br" target="blank">Jetpack Compose</a>
 - 🤔 Estou trabalhando nas horas vagas em um projeto pessoal <a href="https://github.com/WanderleiSantos/MyTraining" target="blank">(My Training)</a> em C# e Kotlin.
-- ❤️ Minha linguagem favorita: C#
+- ❤️ Minhas linguagens favoritas: C# e Java
 - 💬 Pergunte-me sobre: qualquer coisa, estarei feliz em ajudar
 
 <center>
