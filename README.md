@@ -18,7 +18,7 @@
 - 🌱 Atualmente estou trabalhando com Delphi e React-Native
 - 🌱 Atualmente estou aprendendo desenvolvimento nativo <a href="https://www.android.com/intl/pt-BR_br/" target="blank">Android</a> com Kotlin e <a href="https://developer.android.com/jetpack/compose?hl=pt-br" target="blank">Jetpack Compose</a>
 - 🤔 Estou trabalhando nas horas vagas em um projeto pessoal <a href="https://github.com/WanderleiSantos/MyTraining" target="blank">(My Training)</a> em C# e Kotlin.
-- ❤️ Minhas linguagens favoritas: C# e Java
+- ❤️ Minhas linguagens favoritas: C# e Kotlin
 - 💬 Pergunte-me sobre: qualquer coisa, estarei feliz em ajudar
 
 <center>
