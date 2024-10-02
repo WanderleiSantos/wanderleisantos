@@ -15,10 +15,9 @@
  <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 - 🔭 Atualmente estou trabalhando na  <a href="https://www.zaal.com.br/" target="blank">Zaal Tecnologia da Informação</a>
-- 🌱 Atualmente estou trabalhando com Delphi e React-Native
-- 🌱 Atualmente estou aprendendo desenvolvimento nativo <a href="https://www.android.com/intl/pt-BR_br/" target="blank">Android</a> com Kotlin e <a href="https://developer.android.com/jetpack/compose?hl=pt-br" target="blank">Jetpack Compose</a>
+- 🌱 Atualmente estou trabalhando com Java e Delphi
+- 🌱 Nas horas vagas estou aprendendo desenvolvimento nativo <a href="https://www.android.com/intl/pt-BR_br/" target="blank">Android</a> com Kotlin e <a href="https://developer.android.com/jetpack/compose?hl=pt-br" target="blank">Jetpack Compose</a>
 - 🤔 Estou trabalhando nas horas vagas em um projeto pessoal <a href="https://github.com/WanderleiSantos/MyTraining" target="blank">(My Training)</a> em C# e Kotlin.
-- ❤️ Minhas linguagens favoritas: C# e Kotlin
 - 💬 Pergunte-me sobre: qualquer coisa, estarei feliz em ajudar
 
 <center>
