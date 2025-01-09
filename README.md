@@ -25,7 +25,7 @@
     <img   height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderleisantos&hide=html&layout=compact&theme=cobalt&langs_count=8&card_width=320" />
   </a>
   <a href="https://github.com/WanderleiSantos/">
-    <img   height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wanderleisantos&theme=cobalt" />
+    <img   height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wanderleisantos&theme=cobalt&card_width=320" />
   </a>
 </center>
 
